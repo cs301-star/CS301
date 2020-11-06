@@ -1,4 +1,4 @@
-# Stocks CS301
+# Stocks CS301 Group 5
 
 
 ### Structure
@@ -8,7 +8,8 @@
     ├── data/
     ├── deliverables/
     ├── notes/
-    └── src/
+    ├── requirements.txt
+    └── analysis-of-us-stock-market-during-health-crises.ipynb
 
 
 
@@ -17,9 +18,9 @@
 The following was completed by
 - Kush Patel
 - Katherine Thai
-- Ron Nathaniel
 - Dhrumil Rana
 - Jon Perez
+- Ron Nathaniel
 - Justin Molina
 
 CS 301 Term Project
